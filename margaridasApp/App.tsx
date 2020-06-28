@@ -1,5 +1,5 @@
 import React from "react";
-import {Text, View} from 'react-native'
+import {StyleSheet, Text, View} from 'react-native'
 
 export default function () {
     return(
@@ -9,3 +9,9 @@ export default function () {
     )
 }
 
+const styles = StyleSheet.create({
+    view:{
+
+    }
+
+})
