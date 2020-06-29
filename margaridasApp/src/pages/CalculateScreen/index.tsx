@@ -1,6 +1,10 @@
 import React from "react";
 
+
+
 const CalculateScreen: React.FC = () =>{
+
+
 
     return(
         <h1>
@@ -8,3 +12,5 @@ const CalculateScreen: React.FC = () =>{
         </h1>
     )
 }
+
+export default CalculateScreen
