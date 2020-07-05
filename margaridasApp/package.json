@@ -16,6 +16,7 @@
     "@react-navigation/native": "^5.6.1",
     "@react-navigation/stack": "^5.2.10",
     "@types/react-native-popup-dialog": "^0.16.2",
+    "@types/styled-components": "^5.1.0",
     "axios": "^0.19.2",
     "global": "^4.4.0",
     "prop-types": "^15.7.2",

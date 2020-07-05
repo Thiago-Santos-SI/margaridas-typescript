@@ -1,4 +1,4 @@
-export default class TintaSchema {
+export default class TintSchema {
     static schema = {
         name: 'Tinta',
         primaryKey: 'id',
