@@ -1,16 +1,16 @@
 import React from "react";
+import {Text, View} from "react-native";
 
 
 
 const CalculateScreen: React.FC = () =>{
-
-
-
     return(
-        <h1>
-            test
-        </h1>
-    )
+        <View>
+            <Text>
+                calculate
+            </Text>
+        </View>
+        )
 }
 
 export default CalculateScreen
